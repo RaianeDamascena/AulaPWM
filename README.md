@@ -19,6 +19,10 @@ Servomotor – motor micro servo padrão – Wokwi.
 
 4 . O programa entra em um loop infinito movimentando o servo suavemente entre os ângulos de 0º e 180º.
 
+## Link do video de funcionamento 
+
+https://drive.google.com/file/d/1nZPJpgnKDfbnEV-Ot5Tub7UgVuG7b-x7/view?usp=sharing
+
 ## Desenvolvedor
 
 Raiane Damascena
